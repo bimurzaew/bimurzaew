@@ -13,7 +13,7 @@ ___
 
 ![Prettier](https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange)
 ![Eslint](https://img.shields.io/badge/Eslint-red?style=for-the-badge&logo=ESLint)
-![Nodemon](https://img.shields.io/badge/-Nodemon-grey?style=for-the-badge&logo=nodemon&logoColor=43853d)
+![Nodemon](https://img.shields.io/badge/-Nodemon-green?style=for-the-badge&logo=nodemon&logoColor=43853d)
 ![Github](https://img.shields.io/badge/Github-red?style=for-the-badge&logo=GitHub)
 ![Git](https://img.shields.io/badge/GIT-grey?style=for-the-badge&logo=git)
 ![FIGMA](https://img.shields.io/badge/figma-red?style=for-the-badge&logo=figma)
@@ -22,10 +22,10 @@ ___
 ![HTML5](https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=JavaScript)
 ![webpack](https://img.shields.io/badge/webpack-grey?style=for-the-badge&logo=Webpack)
-![NodeJs](https://img.shields.io/badge/-Nodejs-red?style=for-the-badge&logo=Node.js&logoColor=white)
+![NodeJs](https://img.shields.io/badge/-Nodejs-green?style=for-the-badge&logo=Node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-grey?style=for-the-badge&logo=Express)
-![Mongoose](https://img.shields.io/badge/Mongoose-red?style=for-the-badge&logo=MongoDB)
-![MongoDB](https://img.shields.io/badge/-mongo_DB-grey?style=for-the-badge&logo=mongoDB&logoColor=43853d)
+![Mongoose](https://img.shields.io/badge/Mongoose-green?style=for-the-badge&logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/-mongo_DB-green?style=for-the-badge&logo=mongoDB&logoColor=43853d)
 
 ![Handlebars](https://img.shields.io/badge/Handlebars-red?style=for-the-badge&logo=Handlebars.js)
 ![Postman](https://img.shields.io/badge/Postman-grey?style=for-the-badge&logo=Postman)
