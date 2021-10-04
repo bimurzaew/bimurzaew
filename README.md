@@ -22,10 +22,10 @@ ___
 ![HTML5](https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=JavaScript)
 ![webpack](https://img.shields.io/badge/webpack-blue?style=for-the-badge&logo=Webpack)
-![NodeJs](https://img.shields.io/badge/-Nodejs-green?style=for-the-badge&logo=Node.js&logoColor=white)
+![NodeJs](https://img.shields.io/badge/-Nodejs-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-grey?style=for-the-badge&logo=Express)
-![Mongoose](https://img.shields.io/badge/Mongoose-green?style=for-the-badge&logo=MongoDB)
-![MongoDB](https://img.shields.io/badge/-mongo_DB-green?style=for-the-badge&logo=mongoDB&logoColor=43853d)
+![Mongoose](https://img.shields.io/badge/Mongoose-brightgreen?style=for-the-badge&logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/-mongo_DB-brightgreen?style=for-the-badge&logo=mongoDB&logoColor=43853d)
 
 ![Handlebars](https://img.shields.io/badge/Handlebars-red?style=for-the-badge&logo=Handlebars.js)
 ![Postman](https://img.shields.io/badge/Postman-grey?style=for-the-badge&logo=Postman)
