@@ -15,7 +15,7 @@ ___
 ![Eslint](https://img.shields.io/badge/Eslint-red?style=for-the-badge&logo=ESLint)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-green?style=for-the-badge&logo=nodemon&logoColor=43853d)
 ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=GitHub)
-![Git](https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git)
 ![FIGMA](https://img.shields.io/badge/figma-orange?style=for-the-badge&logo=figma)
 ![CSS](https://img.shields.io/badge/css3-9cf?style=for-the-badge&logo=css3)
 
