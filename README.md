@@ -10,6 +10,7 @@ ___
 ![Eslint](https://img.shields.io/badge/Eslint-111111?style=for-the-badge&logo=ESLint)
 ![Github](https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=GitHub)
 ![Git](https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git)
+![FIGMA](https://img.shields.io/badge/figma-111111?style=for-the-badge&logo=figma)
 
 ![HTML5](https://img.shields.io/badge/html5-111111?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css3-111111?style=for-the-badge&logo=css3)
@@ -27,7 +28,6 @@ ___
 ![React_Router](https://img.shields.io/badge/React_Router-111111?style=for-the-badge&logo=ReactRouter)
 ![material_ui](https://img.shields.io/badge/material_ui-111111?style=for-the-badge&logo=Material-UI)
 ![bootstrap](https://img.shields.io/badge/bootstrap-111111?style=for-the-badge&logo=Bootstrap)
-![FIGMA](https://img.shields.io/badge/figma-111111?style=for-the-badge&logo=figma)
 
 ---
 
