@@ -6,10 +6,10 @@ ___
 ___
 
 ### Мои навыки:
-![jswebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge)
-![bcrypt](https://img.shields.io/badge/bcrypt-black?style=for-the-badge&logo)
+![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge=jsonwebtoken)
+![bcrypt](https://img.shields.io/badge/bcrypt-grey?style=for-the-badge&logo)
 ![dotenv](https://img.shields.io/badge/-dotenv-red?style=for-the-badge)
-![cors](https://img.shields.io/badge/-cors-black?style=for-the-badge)
+![cors](https://img.shields.io/badge/-cors-grey?style=for-the-badge)
 
 ![Prettier](https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange)
 ![Eslint](https://img.shields.io/badge/Eslint-111111?style=for-the-badge&logo=ESLint)
