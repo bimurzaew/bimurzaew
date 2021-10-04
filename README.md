@@ -8,6 +8,8 @@ ___
 ### Технологии которыми я владею:
 ![Prettier](https://img.shields.io/badge/Prettier-111111?style=for-the-badge&logo=Prettier)
 ![Eslint](https://img.shields.io/badge/Eslint-111111?style=for-the-badge&logo=ESLint)
+![Nodemon](https://img.shields.io/badge/-Nodemon-black?style=for-the-badge&logo=nodemon&logoColor=43853d)
+
 ![Github](https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=GitHub)
 ![Git](https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git)
 ![FIGMA](https://img.shields.io/badge/figma-111111?style=for-the-badge&logo=figma)
