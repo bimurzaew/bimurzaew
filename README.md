@@ -19,7 +19,7 @@ ___
 ![FIGMA](https://img.shields.io/badge/figma-orange?style=for-the-badge&logo=figma)
 ![CSS](https://img.shields.io/badge/css3-9cf?style=for-the-badge&logo=css3)
 
-![HTML5](https://img.shields.io/badge/html5-9cf?style=for-the-badge&logo=html5)
+![HTML5](https://img.shields.io/badge/html5-informational?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=JavaScript)
 ![webpack](https://img.shields.io/badge/webpack-blue?style=for-the-badge&logo=Webpack)
 ![NodeJs](https://img.shields.io/badge/-Nodejs-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white)
