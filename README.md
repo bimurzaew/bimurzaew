@@ -2,7 +2,7 @@
 
 ___
 
-### Мои навыки:
+### Технологии которыми я владею:
 
 ![HTML5](https://img.shields.io/badge/html5-111111?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css3-111111?style=for-the-badge&logo=css3)
