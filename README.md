@@ -40,7 +40,7 @@ ___
 ### Что я буду учить:
 ![typescript](https://img.shields.io/badge/-Typescipt-blue?style=for-the-badge&logo=Typescipt&logoColor=white)
 ![vue](https://img.shields.io/badge/Vue.js-blueviolet?style=for-the-badge&logo=Vue)
- но и на этом мы не остановимся, так как стремление к знаниям моя обязанность, и я люблю это дело
+#### *но и на этом мы не остановимся, так как стремление к знаниям моя обязанность, и я люблю это дело*
 
 ---
 ### Для связи со мной:
