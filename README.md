@@ -36,6 +36,11 @@ ___
 ![material_ui](https://img.shields.io/badge/material_ui-blueviolet?style=for-the-badge&logo=Material-UI)
 ![bootstrap](https://img.shields.io/badge/bootstrap-blueviolet?style=for-the-badge&logo=Bootstrap)
 
+___
+### Мои желания на будущее:
+![typescript](https://img.shields.io/badge/-Redux_Thunk-blue?style=for-the-badge&logo=Typescipt&logoColor=white)
+![vue](https://img.shields.io/badge/material_ui-blueviolet?style=for-the-badge&logo=Vue)
+
 ---
 ### Для связи со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/bimurzaew)
