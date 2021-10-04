@@ -38,8 +38,8 @@ ___
 
 ___
 ### Мои желания на будущее:
-![typescript](https://img.shields.io/badge/-Redux_Thunk-blue?style=for-the-badge&logo=Typescipt&logoColor=white)
-![vue](https://img.shields.io/badge/material_ui-blueviolet?style=for-the-badge&logo=Vue)
+![typescript](https://img.shields.io/badge/-Typescipt-blue?style=for-the-badge&logo=Typescipt&logoColor=white)
+![vue](https://img.shields.io/badge/Vue.js-blueviolet?style=for-the-badge&logo=Vue)
 
 ---
 ### Для связи со мной:
