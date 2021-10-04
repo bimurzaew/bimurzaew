@@ -6,7 +6,7 @@ ___
 ___
 
 ### Технологии которыми я владею:
-![Prettier](https://img.shields.io/badge/Prettier-111111?style=for-the-badge&logo=Prettier)
+![Prettier](Prettier" src="https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange)
 ![Eslint](https://img.shields.io/badge/Eslint-111111?style=for-the-badge&logo=ESLint)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-black?style=for-the-badge&logo=nodemon&logoColor=43853d)
 
@@ -24,9 +24,9 @@ ___
 
 ![Handlebars](https://img.shields.io/badge/Handlebars-111111?style=for-the-badge&logo=Handlebars.js)
 ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=Postman)
-![react](https://img.shields.io/badge/react-111111?style=for-the-badge&logo=React)
+![react](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white)
 ![redux](https://img.shields.io/badge/redux-111111?style=for-the-badge&logo=Redux)
-![redux thunk](https://img.shields.io/badge/redux_thunk-111111?style=for-the-badge)
+![redux thunk](https://img.shields.io/badge/-Redux_Thunk-430098?style=for-the-badge&logo=Redux&logoColor=white)
 ![React_Router](https://img.shields.io/badge/React_Router-111111?style=for-the-badge&logo=ReactRouter)
 ![material_ui](https://img.shields.io/badge/material_ui-111111?style=for-the-badge&logo=Material-UI)
 ![bootstrap](https://img.shields.io/badge/bootstrap-111111?style=for-the-badge&logo=Bootstrap)
