@@ -5,7 +5,7 @@ ___
  Здесь должны быть проекты
 ___
 
-### Технологии которыми я владею:
+### Мои навыки:
 ![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge)
 ![bcrypt](https://img.shields.io/badge/bcrypt-✔-green?style=for-the-badge&logo)
 ![dotenv](https://img.shields.io/badge/-dotenv-red?style=for-the-badge)
@@ -37,4 +37,7 @@ ___
 ![bootstrap](https://img.shields.io/badge/bootstrap-111111?style=for-the-badge&logo=Bootstrap)
 
 ---
-
+### Для связи со мной:
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/bimurzaew)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/bimurzaew/)
+[![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)]((https://wa.me/79298913686))
