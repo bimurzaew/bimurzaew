@@ -1,8 +1,8 @@
-# Welcome
+# Welcome in my world, ладно просто Добро пожаловать)
 
 ___
 
-### Стек с которым я работал:
+### Мои навыки:
 
 ![HTML5](https://img.shields.io/badge/html5-111111?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css3-111111?style=for-the-badge&logo=css3)
