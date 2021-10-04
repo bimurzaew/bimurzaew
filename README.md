@@ -7,15 +7,15 @@ ___
 
 ### Мои навыки:
 ![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-black?style=for-the-badge&logo=Jsonwebtoken)
-![bcrypt](https://img.shields.io/badge/bcrypt-grey?style=for-the-badge&logo=Bcrypt)
+![bcrypt](https://img.shields.io/badge/bcrypt-black?style=for-the-badge&logo=Bcrypt)
 ![dotenv](https://img.shields.io/badge/-dotenv-black?style=for-the-badge&logo=Dotenv)
-![cors](https://img.shields.io/badge/-cors-grey?style=for-the-badge&logo=Cors)
+![cors](https://img.shields.io/badge/-cors-black?style=for-the-badge&logo=Cors)
 
 ![Prettier](https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange)
 ![Eslint](https://img.shields.io/badge/Eslint-red?style=for-the-badge&logo=ESLint)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-green?style=for-the-badge&logo=nodemon&logoColor=43853d)
-![Github](https://img.shields.io/badge/Github-red?style=for-the-badge&logo=GitHub)
-![Git](https://img.shields.io/badge/GIT-grey?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=GitHub)
+![Git](https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=git)
 ![FIGMA](https://img.shields.io/badge/figma-red?style=for-the-badge&logo=figma)
 ![CSS](https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3)
 
@@ -33,7 +33,7 @@ ___
 ![React_Router](https://img.shields.io/badge/React_Router-45b8d8?style=for-the-badge&logo=ReactRouter)
 ![redux](https://img.shields.io/badge/redux-blue?style=for-the-badge&logo=Redux)
 ![redux thunk](https://img.shields.io/badge/-Redux_Thunk-blue?style=for-the-badge&logo=Redux&logoColor=white)
-![material_ui](https://img.shields.io/badge/material_ui-red?style=for-the-badge&logo=Material-UI)
+![material_ui](https://img.shields.io/badge/material_ui-blueviolet?style=for-the-badge&logo=Material-UI)
 ![bootstrap](https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=Bootstrap)
 
 ---
