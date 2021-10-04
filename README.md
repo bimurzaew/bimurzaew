@@ -34,7 +34,7 @@ ___
 ![redux](https://img.shields.io/badge/redux-blue?style=for-the-badge&logo=Redux)
 ![redux thunk](https://img.shields.io/badge/-Redux_Thunk-blue?style=for-the-badge&logo=Redux&logoColor=white)
 ![material_ui](https://img.shields.io/badge/material_ui-blueviolet?style=for-the-badge&logo=Material-UI)
-![bootstrap](https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=Bootstrap)
+![bootstrap](https://img.shields.io/badge/bootstrap-blueviolet?style=for-the-badge&logo=Bootstrap)
 
 ---
 ### Для связи со мной:
