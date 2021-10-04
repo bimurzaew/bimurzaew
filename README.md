@@ -6,9 +6,9 @@ ___
 ___
 
 ### Мои навыки:
-![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge&logo=Jsonwebtoken)
+![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-black?style=for-the-badge&logo=Jsonwebtoken)
 ![bcrypt](https://img.shields.io/badge/bcrypt-grey?style=for-the-badge&logo=Bcrypt)
-![dotenv](https://img.shields.io/badge/-dotenv-red?style=for-the-badge&logo=Dotenv)
+![dotenv](https://img.shields.io/badge/-dotenv-black?style=for-the-badge&logo=Dotenv)
 ![cors](https://img.shields.io/badge/-cors-grey?style=for-the-badge&logo=Cors)
 
 ![Prettier](https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange)
@@ -21,7 +21,7 @@ ___
 
 ![HTML5](https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=JavaScript)
-![webpack](https://img.shields.io/badge/webpack-grey?style=for-the-badge&logo=Webpack)
+![webpack](https://img.shields.io/badge/webpack-blue?style=for-the-badge&logo=Webpack)
 ![NodeJs](https://img.shields.io/badge/-Nodejs-green?style=for-the-badge&logo=Node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-grey?style=for-the-badge&logo=Express)
 ![Mongoose](https://img.shields.io/badge/Mongoose-green?style=for-the-badge&logo=MongoDB)
