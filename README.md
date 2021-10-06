@@ -2,7 +2,13 @@
 
 ___
 ### Мои проекты:
- Здесь должны быть проекты
+ Delicious - командный проект
+ Код: https://github.com/bimurzaew/delivery
+ Демо:
+ 
+ Autoprokat - командный проект
+ Код:https://github.com/bimurzaew/cars_rent
+ Демо:
 ___
 
 ### Мои навыки:
