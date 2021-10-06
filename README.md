@@ -2,7 +2,7 @@
 
 ___
 ### Мои проекты:
-#### Delicious - командный проект
+### Delicious - командный проект
  
  Код: https://github.com/bimurzaew/delivery
  
