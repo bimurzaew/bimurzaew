@@ -3,12 +3,16 @@
 ___
 ### Мои проекты:
  Delicious - командный проект
+ 
  Код: https://github.com/bimurzaew/delivery
- Демо:
+ 
+ Демо:https://delivery-mern.herokuapp.com/
  
  Autoprokat - командный проект
+ 
  Код:https://github.com/bimurzaew/cars_rent
- Демо:
+ 
+ Демо:https://autoprokat.herokuapp.com/
 ___
 
 ### Мои навыки:
