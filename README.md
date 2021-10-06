@@ -2,13 +2,13 @@
 
 ___
 ### Мои проекты:
- Delicious - командный проект
+#### Delicious - командный проект
  
  Код: https://github.com/bimurzaew/delivery
  
  Демо:https://delivery-mern.herokuapp.com/
  
- Autoprokat - командный проект
+### Autoprokat - командный проект
  
  Код:https://github.com/bimurzaew/cars_rent
  
