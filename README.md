@@ -4,14 +4,10 @@
 ### Delicious - командный проект
  
  Код: https://github.com/bimurzaew/delivery
- 
- Демо:https://delivery-mern.herokuapp.com/
- 
+  
 ### Autoprokat - командный проект
  
  Код:https://github.com/bimurzaew/cars_rent
- 
- Демо:https://autoprokat.herokuapp.com/
 ___
 
 ### Для связи со мной:
