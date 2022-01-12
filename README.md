@@ -2,15 +2,16 @@
 
 ### Мои проекты:
 
+
 ### iqa-frontend
  
  https://github.com/bimurzaew/iqa-frontend
 
-### Delicious - командный проект
- 
+### Delicious 
+
  https://github.com/bimurzaew/delivery
   
-### Autoprokat - командный проект
+### Autoprokat
   
  https://github.com/bimurzaew/cars_rent
 ___
