@@ -1,13 +1,18 @@
 # Welcome 📌
 
 ### Мои проекты:
+
+### iqa-frontend
+ 
+ https://github.com/bimurzaew/iqa-frontend
+
 ### Delicious - командный проект
  
- Код: https://github.com/bimurzaew/delivery
+ https://github.com/bimurzaew/delivery
   
 ### Autoprokat - командный проект
- 
- Код:https://github.com/bimurzaew/cars_rent
+  
+ https://github.com/bimurzaew/cars_rent
 ___
 
 ### Для связи со мной:
